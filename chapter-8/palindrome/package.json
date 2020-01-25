@@ -1,0 +1,22 @@
+{
+  "name": "ggoh-palindrome",
+  "version": "1.0.0",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "palindrome",
+    "learn-enough",
+    "javascript"
+  ],
+  "author": "Gerald Goh",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^7.0.0"
+  }
+}
